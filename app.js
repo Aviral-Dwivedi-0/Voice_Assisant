@@ -25,7 +25,7 @@ function wishMe() {
 }
 
 window.addEventListener("load", () => {
-  speak("Initializing HIMAALAY..");
+  speak("Initializing HIMAAALAY..");
   wishMe();
 });
 
